@@ -1,0 +1,11 @@
+{
+  "name": "ormazajimenezexamen1shds",
+  "version": "1.0.0",
+  "description": "EXAMEN PARCIAL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PAUL ORMAZA",
+  "license": "ISC"
+}
